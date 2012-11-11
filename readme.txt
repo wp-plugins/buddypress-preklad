@@ -40,7 +40,7 @@ Coming soon
 
 == Frequently Asked Questions ==
 
-Našel jsem chybu, co mám dělat? =
+Našel jsem chybu, co mám dělat?
 
 Pokud naleznete chybu, zdělte nám to prosím v našem fóru [WpGuru.eu](http://wpguru.eu/forum/?mingleforumaction=viewforum&f=8.0)
 
