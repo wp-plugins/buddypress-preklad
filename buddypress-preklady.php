@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: BuddyPress překlady
-Plugin URI: http://wordpress.org/extend/plugins/buddypress-preklady
+Plugin Name: BuddyPress překlad
+Plugin URI: http://wpguru.eu/download/cestina-buddypress/
 Description: Plugin, který přídá do vašeho buddypress další jazyky.
-Version: 1.0
+Version: 1.1
 Author: Expres-Web.cz
 Author URI: http://wpguru.eu
 Text Domain: bpt
@@ -28,12 +28,12 @@ with this program; if not, write to the Free Software Foundation, Inc.,
 if ( ! defined( 'ABSPATH' ) ) exit;
 
 /**
- * Maybe load the BuddyPress slovenština.
+ * Maybe load the BuddyPress překlad.
  *
  * @since 1.0
  */
 function bpt_load_textdomain() {
-	$mofile = WP_PLUGIN_DIR . '/buddypress-preklady/pomo/' . apply_filters( 'buddypress_locale', get_locale() ) . '.mo';
+	$mofile = WP_PLUGIN_DIR . '/buddypress-preklad/pomo/' . apply_filters( 'buddypress_locale', get_locale() ) . '.mo';
 
 	if ( file_exists( $mofile ) )
 		return load_textdomain( 'buddypress', $mofile );
