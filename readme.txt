@@ -1,5 +1,5 @@
 ﻿=== BuddyPress Překlady ===
-Contributors: Expres-Web
+Contributors: expres-web
 Tags: buddypress, preklady
 Requires at least: BuddyPress 1.6
 Tested up to: BuddyPress 1.5
