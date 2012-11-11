@@ -9,7 +9,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Plugin přidá další jazykové překlady pro Váš BuddyPress. Pro aktualní verzi navštivte prosím [stránku pluginu](http://wpguru.eu/download/cestina-buddypress/)
+Plugin přidá další jazykové překlady pro Váš BuddyPress.
 
 Momentálně je k dispozici :
 
