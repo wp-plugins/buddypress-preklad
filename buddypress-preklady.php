@@ -3,7 +3,7 @@
 Plugin Name: BuddyPress překlad
 Plugin URI: http://wpguru.eu/download/cestina-buddypress/
 Description: Plugin, který přídá do vašeho buddypress další jazyky.
-Version: 1.2
+Version: 1.3
 Author: Expres-Web.cz
 Author URI: http://wpguru.eu
 Text Domain: bpt
