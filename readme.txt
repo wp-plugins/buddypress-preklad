@@ -4,14 +4,14 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: buddypress, překlady, buddypress čeština, čeština, Croatian, Dutch, Italian, Japanese, Korean, Norwegian, Portuguese, Russian, Slovak, Spanish, Thai
 Requires at least: BuddyPress 1.6
 Tested up to: BuddyPress 1.5
-Stable tag: 1.3
+Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
 Konec nahrávání přeložených mo souboru do BuddyPress. Již nepotřebujete žádné FTP, nepotřebujete k tomu žádné znalosti ani webmastera. 
-Stačí jen aktivovat plugin ve vaši administraci a překlady jsou ihned aktivní a stále aktualizovan.
+Stačí jen aktivovat plugin ve Vaši administraci a překlady jsou ihned aktivní a stále aktualizovány.
 
 Momentálně je k dispozici :
 
@@ -36,7 +36,7 @@ Momentálně je k dispozici :
 1. Activujte plugin.
 
 == Screenshots ==
-Coming soon
+Nejsou potřeba
 
 == Frequently Asked Questions ==
 
@@ -46,6 +46,11 @@ Pokud naleznete chybu, zdělte nám to prosím v našem fóru [WpGuru.eu](http:/
 
 == Changelog ==
 
+= 1.4 = 
+Změna načtení zdroje .mo souboru
+Další překlady v češtině ( již 76% přeloženo ).
+Opravy nalezených překlepů v sk
+
 = 1.3 = 
 Přidán nový jazyk ( němčina ).
 
@@ -53,7 +58,7 @@ Přidán nový jazyk ( němčina ).
 Oprava .mo souboru pro český jazyk. Přidány další jazykové překlady.
 
 = 1.1 = 
-Oprava nactení .mo souboru
+Oprava nactení .mo souboru.
 
 = 1.0 = 
 Uvolnění pluginu.
