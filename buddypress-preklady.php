@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: BuddyPress překlad
-Plugin URI: http://wordpress.org/extend/plugins/buddypress-preklad/
+Plugin URI: http://www.wpguru.eu
 Description: Plugin, který přídá do vašeho buddypress další jazyky. Přímo v administraci v menu Překlad BuddyPress můžete přes formulář odesílat nám zprávy a chyby.
-Version: 1.7
+Version: 1.8
 Author: Expres-Web.cz
-Author URI: http://wpguru.eu
+Author URI: http://www.expres-web.cz
 Text Domain: bpt
 
 "
