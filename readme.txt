@@ -1,10 +1,10 @@
 ﻿=== BuddyPress Překlady ===
 Contributors: expres-web
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7F53XKXAB2HSG
-Tags: buddypress, překlady, buddypress čeština, čeština, Croatian, Dutch, Italian, Japanese, Korean, Norwegian, Portuguese, Russian, Slovak, Spanish, Thai
-Requires at least: BuddyPress 1.6
-Tested up to: BuddyPress 1.5
-Stable tag: 1.6
+Tags: buddypress, překlady, překlad, buddypress čeština, čeština, Croatian, Dutch, Italian, Japanese, Korean, Norwegian, Portuguese, Russian, Slovak, Spanish, Thai
+Requires at least: 3.0
+Tested up to: 4.0
+Stable tag: 1.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -45,6 +45,9 @@ Našel jsem chybu, co mám dělat?
 Pokud naleznete chybu, zdělte nám to prosím v našem fóru [WpGuru.eu](http://wpguru.eu/forum/?mingleforumaction=viewforum&f=8.0) a nebo přímo v menu Překlad BuddyPress můžete přes formulář odesílat zprávy a chyby.
 
 == Changelog ==
+
+= 1.7 = 
+* Další přeložené řetězce
 
 = 1.6 = 
 * Oprava formuláře

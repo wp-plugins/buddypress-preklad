@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: BuddyPress překlad
-Plugin URI: http://wpguru.eu/download/cestina-buddypress/
+Plugin URI: http://wordpress.org/extend/plugins/buddypress-preklad/
 Description: Plugin, který přídá do vašeho buddypress další jazyky. Přímo v administraci v menu Překlad BuddyPress můžete přes formulář odesílat nám zprávy a chyby.
-Version: 1.6
+Version: 1.7
 Author: Expres-Web.cz
 Author URI: http://wpguru.eu
 Text Domain: bpt
