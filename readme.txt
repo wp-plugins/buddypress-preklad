@@ -1,5 +1,5 @@
 ﻿=== BuddyPress Překlady ===
-Contributors: expres-Web
+Contributors: expres-web
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7F53XKXAB2HSG
 Tags: buddypress, překlady, překlad, buddypress čeština, čeština, Croatian, Dutch, Italian, Japanese, Korean, Norwegian, Portuguese, Russian, Slovak, Spanish, Thai
 Requires at least: 3.0
