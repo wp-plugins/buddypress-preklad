@@ -38,7 +38,7 @@ Instalace je velmi jednoduchá
 
 == Screenshots ==
 
-1. Kontaktní formulář
+Již brzy
 
 == Frequently Asked Questions ==
 
