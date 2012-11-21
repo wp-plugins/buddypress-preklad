@@ -1,22 +1,33 @@
-﻿=== Shortcodes Ultimate překlad ===
+﻿=== BuddyPress Překlady ===
 Contributors: expres-web
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7F53XKXAB2HSG
-Tags: Shortcodes Ultimate, překlad, Shortcodes Ultimate čeština, Shortcodes Ultimate slovenština
+Tags: buddypress, překlady, překlad, buddypress čeština, čeština, Croatian, Dutch, Italian, Japanese, Korean, Norwegian, Portuguese, Russian, Slovak, Spanish, Thai
 Requires at least: 3.0
-Tested up to: 3.4.2
-Stable tag: 1.3
+Tested up to: 4.0
+Stable tag: 1.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Přeloží plugin shortcodes-ultimate do více jazyků včetně češtiny a slovenštiny.
+Plugin přidá další jazykové překlady pro Váš BuddyPress.
 
-Již dostupné překlady:
+Momentálně je k dispozici :
 
 * Čeština
-* Slovenština
-* Ruština
+* Slovenčina
+* Croatian
+* Dutch
+* Italian
+* Japanese
+* Korean
+* Norwegian (Bokmål)
+* Portuguese (Brazil)
+* Portuguese (Portugal)
+* Russian
+* Spanish (Spain)
+* Thai
+* German 
 
 == Installation ==
 
@@ -26,9 +37,8 @@ Instalace je velmi jednoduchá
 1. Activujte plugin.
 
 == Screenshots ==
-1. Překlad úvodní stránky
-2. Překlad nastavení
-3. Zkrácené kódy 
+
+Již brzy
 
 == Frequently Asked Questions ==
 
@@ -38,22 +48,69 @@ Pokud naleznete chybu, zdělte nám to prosím v našem fóru [WpGuru.eu](http:/
 
 == Changelog ==
 
+= 1.8 = 
+* Oprava překladu, 
+* oprava odkazu na stránky
+
+= 1.7 = 
+* Další přeložené řetězce
+
+= 1.6 = 
+* Oprava formuláře
+
+= 1.5 = 
+* Přádaná stránka v administraci. Přímo v administraci v menu Překlad BuddyPress můžete přes formulář nám odesílat zprávy a chyby. 
+* Další překlady v češtině ( již 90% přeloženo ).
+* Opravy nalezených nekterých překlepů v sk
+
+= 1.4 = 
+* Změna načtení zdroje .mo souboru
+* Další překlady v češtině ( již 76% přeloženo ).
+* Opravy nalezených překlepů v sk
+
 = 1.3 = 
-Oprava funkčnosti češtiny
+Přidán nový jazyk ( němčina ).
 
 = 1.2 = 
-100% český a slovenský překlad.
+* Oprava .mo souboru pro český jazyk. 
+* Přidány další jazykové překlady.
 
 = 1.1 = 
-Oprava načítání .mo
+* Oprava nactení .mo souboru.
 
 = 1.0 = 
-Uvolnění pluginu.
+* Uvolnění pluginu.
 
 == Upgrade Notice ==
 
-= 1.1 =
-Oprava chybného načítání .mo souboru.
+= 1.8 = 
+* Oprava překladu, oprava odkazu na stránky, odstranění starých vezí od 1.0 až po 1.4
 
-= 1.0 =
-Spustění a zveřejnění pluginu. Obsahuje již češtinu, slovenštinu a ruštinu.
+= 1.7 = 
+* Další přeložené řetězce
+
+= 1.6 = 
+* Oprava formuláře
+
+= 1.5 = 
+* Přádaná stránka v administraci. Přímo v administraci v menu Překlad BuddyPress můžete přes formulář nám odesílat zprávy a chyby. 
+* Další překlady v češtině ( již 90% přeloženo ).
+* Opravy nalezených nekterých překlepů v sk
+
+= 1.4 = 
+* Změna načtení zdroje .mo souboru
+* Další překlady v češtině ( již 76% přeloženo ).
+* Opravy nalezených překlepů v sk
+
+= 1.3 = 
+Přidán nový jazyk ( němčina ).
+
+= 1.2 = 
+* Oprava .mo souboru pro český jazyk. 
+* Přidány další jazykové překlady.
+
+= 1.1 = 
+* Oprava nactení .mo souboru.
+
+= 1.0 = 
+* Uvolnění pluginu.
