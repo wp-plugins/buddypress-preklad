@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: buddypress, překlady, překlad, buddypress čeština, čeština, Croatian, Dutch, Italian, Japanese, Korean, Norwegian, Portuguese, Russian, Slovak, Spanish, Thai
 Requires at least: 3.0
 Tested up to: 4.0
-Stable tag: 1.8
+Stable tag: 1.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -48,6 +48,10 @@ Pokud naleznete chybu, zdělte nám to prosím v našem fóru [WpGuru.eu](http:/
 
 == Changelog ==
 
+= 1.9 = 
+* Oprava překladu
+* Odstraneni fomuláře
+
 = 1.8 = 
 * Oprava překladu, 
 * oprava odkazu na stránky
@@ -83,8 +87,14 @@ Přidán nový jazyk ( němčina ).
 
 == Upgrade Notice ==
 
+= 1.9 = 
+* Oprava překladu a odstranění formuláře z adminu. Toto je z důvodu plánu nového pluginu.
+
 = 1.8 = 
 * Oprava překladu, oprava odkazu na stránky, odstranění starých vezí od 1.0 až po 1.4
+
+= 1.8 = 
+* Oprava překladu
 
 = 1.7 = 
 * Další přeložené řetězce

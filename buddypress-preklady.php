@@ -3,7 +3,7 @@
 Plugin Name: BuddyPress překlad
 Plugin URI: http://www.wpguru.eu
 Description: Plugin, který přídá do vašeho buddypress další jazyky. Přímo v administraci v menu Překlad BuddyPress můžete přes formulář odesílat nám zprávy a chyby.
-Version: 1.8
+Version: 1.9
 Author: Expres-Web.cz
 Author URI: http://www.expres-web.cz
 Text Domain: bpt
@@ -23,12 +23,6 @@ You should have received a copy of the GNU General Public License along
 with this program; if not, write to the Free Software Foundation, Inc.,
 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
 */
-// Přidat menu
-add_action('admin_menu', 'register_custom_menu_page');
-
-function register_custom_menu_page() {
-   add_menu_page('Podpora překladu BuddyPress', 'Překlad BuddyPress', 'add_users', 'buddypress-preklad/podpora.html', '',   plugins_url('buddypress-preklad/img/pomoc.png'), 99);
-}
 
 // Exit if accessed directly
 if ( ! defined( 'ABSPATH' ) ) exit;
