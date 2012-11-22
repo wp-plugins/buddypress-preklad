@@ -38,7 +38,7 @@ Instalace je velmi jednoduchá
 
 == Screenshots ==
 
-Již brzy
+Již brzo
 
 == Frequently Asked Questions ==
 
@@ -47,10 +47,6 @@ Našel jsem chybu, co mám dělat?
 Pokud naleznete chybu, zdělte nám to prosím v našem fóru [WpGuru.eu](http://wpguru.eu/forum/?mingleforumaction=viewforum&f=9.0)
 
 == Changelog ==
-
-= 1.9 = 
-* Oprava překladu
-* Odstraneni fomuláře
 
 = 1.8 = 
 * Oprava překladu, 
@@ -87,14 +83,8 @@ Přidán nový jazyk ( němčina ).
 
 == Upgrade Notice ==
 
-= 1.9 = 
-* Oprava překladu a odstranění formuláře z adminu. Toto je z důvodu plánu nového pluginu.
-
 = 1.8 = 
 * Oprava překladu, oprava odkazu na stránky, odstranění starých vezí od 1.0 až po 1.4
-
-= 1.8 = 
-* Oprava překladu
 
 = 1.7 = 
 * Další přeložené řetězce
