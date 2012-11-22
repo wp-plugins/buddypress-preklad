@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: BuddyPress překlad
-Plugin URI: http://www.wpguru.eu
-Description: Plugin, který přídá do vašeho buddypress další jazyky. Přímo v administraci v menu Překlad BuddyPress můžete přes formulář odesílat nám zprávy a chyby.
-Version: 1.9
+Plugin URI: http://wpguru.eu/download/cestina-buddypress/
+Description: Plugin, který přídá do vašeho buddypress další jazyky.
+Version: 1.3
 Author: Expres-Web.cz
-Author URI: http://www.expres-web.cz
+Author URI: http://wpguru.eu
 Text Domain: bpt
 
 "
@@ -33,7 +33,7 @@ if ( ! defined( 'ABSPATH' ) ) exit;
  * @since 1.0
  */
 function bpt_load_textdomain() {
-	$mofile = WP_PLUGIN_DIR . '/buddypress-preklad/jazyky/' . apply_filters( 'buddypress_locale', get_locale() ) . '.mo';
+	$mofile = WP_PLUGIN_DIR . '/buddypress-preklad/pomo/' . apply_filters( 'buddypress_locale', get_locale() ) . '.mo';
 
 	if ( file_exists( $mofile ) )
 		return load_textdomain( 'buddypress', $mofile );
