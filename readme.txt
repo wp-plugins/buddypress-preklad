@@ -38,7 +38,7 @@ Instalace je velmi jednoduchá
 
 == Screenshots ==
 
-Již brzy
+Již brzo
 
 == Frequently Asked Questions ==
 
