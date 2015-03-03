@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: BuddyPress překlad
-Plugin URI: http://wpguru.eu/download/cestina-buddypress/
-Description: Plugin, který přídá do vašeho buddypress další jazyky.
-Version: 2.2
-Author: Expres-Web.cz
-Author URI: http://wpguru.eu
+Plugin URI: http://wick.cz
+Description: Plugin, který přídá češtinu do vašeho buddypress.
+Version: 2.3
+Author: Wick.cz
+Author URI: http://wick.cz
 Text Domain: bpt
 
 "
