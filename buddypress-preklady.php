@@ -3,7 +3,7 @@
 Plugin Name: BuddyPress překlad
 Plugin URI: http://expres-web.cz
 Description: Plugin, který přídá češtinu do vašeho BuddyPress.
-Version: 2.4
+Version: 2.4.1
 Author: Wick.cz
 Author URI: http://expres-web.cz
 Text Domain: bpt
@@ -39,23 +39,4 @@ function bpt_load_textdomain() {
 		return load_textdomain( 'buddypress', $mofile );
 }
 add_action( 'bp_loaded', 'bpt_load_textdomain' );
-
-	// Funkce pro zobrazení widgetu na nástěnce
-	function BP_ZobrazWidget(){
-		?>
-<div class="widget">
-			<h1>Novinky</h1>
-			<p><img src="http://s-plugins.wordpress.org/podpora-online/assets/banner-772x250.png?rev=637032" alt="Banner" /></p>
-			<p>Stáhněte si nový plugin pro získání podpory pro překlady, pluginy, a mnoho dalšího. Dozvíte se vždy o nových překladech a mnoho dalšího. Stáhnout si ho můžete na oficiálních stránkách wordpress.org <a href="http://wordpress.org/extend/plugins/podpora-online/" title="Podpora online" target="_blank">zde</a></p>
-		</div>
-		<?php
-	}
-	
-	    // Funkce pro vytvoření widgetu na nástěnce
-    function BP_VytvorWidget(){
-		wp_add_dashboard_widget('widget', 'Poslení novinky na wpguru.eu', 'BP_ZobrazWidget');
-	}
-	
-	// Spuštění funkce pro vytvoření widgetu na nástěnce
-	add_action('wp_dashboard_setup', 'BP_VytvorWidget');	
 	
