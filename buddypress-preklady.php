@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: BuddyPress překlad
-Plugin URI: http://wick.cz
-Description: Plugin, který přídá češtinu do vašeho buddypress.
-Version: 2.3
+Plugin URI: http://expres-web.cz
+Description: Plugin, který přídá češtinu do vašeho BuddyPress.
+Version: 2.4
 Author: Wick.cz
-Author URI: http://wick.cz
+Author URI: http://expres-web.cz
 Text Domain: bpt
 
 "
@@ -33,7 +33,7 @@ if ( ! defined( 'ABSPATH' ) ) exit;
  * @since 1.0
  */
 function bpt_load_textdomain() {
-	$mofile = WP_PLUGIN_DIR . '/buddypress-preklad/pomo/' . apply_filters( 'buddypress_locale', get_locale() ) . '.mo';
+	$mofile = WP_PLUGIN_DIR . '/buddypress-preklad/jazyky/' . apply_filters( 'buddypress_locale', get_locale() ) . '.mo';
 
 	if ( file_exists( $mofile ) )
 		return load_textdomain( 'buddypress', $mofile );

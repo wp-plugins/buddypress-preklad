@@ -1,10 +1,10 @@
 === BuddyPress Překlady ===
-Contributors: expres-web, wick
+Contributors: expres-web
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7F53XKXAB2HSG
 Tags: buddypress, buddypres čeština, překlady, buddypress čeština, čeština
 Requires at least: 3.0.0
-Tested up to: 4.1
-Stable tag: 2.3
+Tested up to: 4.2
+Stable tag: 2.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -28,6 +28,10 @@ Našel jsem chybu, co mám dělat? =
 Pokud naleznete chybu, zdělte nám to prosím
 
 == Changelog ==
+
+= 2.4 = 
+* Přeložené další řetězce
+* Odstraněné staré verze
 
 = 2.3 = 
 * Obnova pluginu + přeložené některé řetězce
