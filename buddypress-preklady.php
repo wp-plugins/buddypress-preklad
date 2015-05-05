@@ -2,8 +2,8 @@
 /*
 Plugin Name: BuddyPress překlad
 Plugin URI: http://expres-web.cz
-Description: Plugin, který přídá češtinu do vašeho BuddyPress.
-Version: 2.4.1
+Description: Plugin, který přeloží Váš BuddyPress a jejich rozšíření do češtiny.
+Version: 2.4.2
 Author: Wick.cz
 Author URI: http://expres-web.cz
 Text Domain: bpt
@@ -32,11 +32,22 @@ if ( ! defined( 'ABSPATH' ) ) exit;
  *
  * @since 1.0
  */
+ 
+// Překlad pluginu BuddyPress
 function bpt_load_textdomain() {
-	$mofile = WP_PLUGIN_DIR . '/buddypress-preklad/jazyky/' . apply_filters( 'buddypress_locale', get_locale() ) . '.mo';
+	$mofile = WP_PLUGIN_DIR . '/buddypress-preklad/jazyky/buddypress/' . apply_filters( 'buddypress_locale', get_locale() ) . '.mo';
 
 	if ( file_exists( $mofile ) )
 		return load_textdomain( 'buddypress', $mofile );
 }
 add_action( 'bp_loaded', 'bpt_load_textdomain' );
+
+// Překlad pluginu BuddyPress activity plus
+function bpa_load_textdomain() {
+	$mofile = WP_PLUGIN_DIR . '/buddypress-preklad/jazyky/buddypress-activity/' . apply_filters( 'bpfb_locale', get_locale() ) . '.mo';
+
+	if ( file_exists( $mofile ) )
+		return load_textdomain( 'bpfb', $mofile );
+}
+add_action( 'bp_loaded', 'bpa_load_textdomain' );
 	
